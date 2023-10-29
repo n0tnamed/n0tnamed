@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 - [x] logout && sleep
 
 [^42]: If you do animation, then make on/off switch for it.
-       Bro, the 21st century.
+       Bro, the 21st century, i know. But there is a tech from the 20th century that still breathes.
