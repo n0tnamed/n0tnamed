@@ -11,7 +11,7 @@ Who are you people?
 - 📫 How to reach me ...
 
 > [!WARNING]
-> Please do n0t throw the mailboxes at me. They are heavy and metal.
+> Please do n0t reach me by throwing mailboxes at me. They are heavy and metal.
 
 <!---
 Fun fact. Two thirds of proxy servers do not survive even a month, while one third does not die for years. 
